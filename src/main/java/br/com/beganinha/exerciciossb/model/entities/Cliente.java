@@ -1,4 +1,4 @@
-package br.com.beganinha.exerciciossb.models;
+package br.com.beganinha.exerciciossb.model.entities;
 
 public class Cliente {
 
